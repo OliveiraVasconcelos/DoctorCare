@@ -8,8 +8,8 @@
 + Tecnologies Used: HTML5, CSS3, JavaScrit(ECMAScript)
 
 
-## 📚 used libraries
-  ><a href="https://scrollrevealjs.org/">ScrollReveal</a>;
+## 📜 used libraries
+  > <a href="https://scrollrevealjs.org/">ScrollReveal</a>;
 
 
 ## 💻 Concepts tested in this project:
