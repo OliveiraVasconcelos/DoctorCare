@@ -1,5 +1,6 @@
-# DoctorCare
- > A responsive site for a helth care
+# DoctorCare -A responsive site for a helth care-.
+
+> 🔍 Take a look -  https://oliveiravasconcelos.github.io/DoctorCare/
 
 ## 📖 About this project: 
 + This project belong to <a href="https://rocketseat.com.br">RocketSeat</a>
@@ -11,9 +12,9 @@
   ><a href="https://scrollrevealjs.org/">ScrollReveal</a>;
 
 
-## 🔍 Concepts tested in this project:
-+ Semantic Tags(HTML);
-+ Mobile First(CSS);
+## 💻 Concepts tested in this project:
++ Semantic Tags(HTML5);
++ Mobile First(CSS3);
 + DOM(JavaScript)
 
 
