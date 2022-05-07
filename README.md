@@ -3,7 +3,7 @@
 > 🔍 Take a look -  https://oliveiravasconcelos.github.io/DoctorCare/
 
 ## 📖 About this project: 
-+ This project belong to <a href="https://rocketseat.com.br">RocketSeat</a>
++ This project belong to <a href="https://rocketseat.com.br">RocketSeat</a> | NextLevelWeek
 + Testing skills with DOM (Document Obejct Model)
 + Tecnologies Used: HTML5, CSS3, JavaScrit(ECMAScript)
 
